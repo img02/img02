@@ -24,15 +24,16 @@ Here are some ideas to get you started:
 ![Download count](https://img.shields.io/endpoint?url=https://vz32sgcoal.execute-api.us-east-1.amazonaws.com/HuntHelper)
 ![downloads count](https://img.shields.io/github/downloads/imaginary-png/a-ffxiv-hunt-tracker/total.svg)
 
-![github stats image](https://github-readme-stats.vercel.app/api?username=imaginary-png&count_private=true)![langauge stats image](https://github-readme-stats.vercel.app/api/top-langs/?username=imaginary-png&count_private=true&layout=compact)  
+![github stats image](https://github-readme-stats.vercel.app/api?username=imaginary-png&count_private=true)
+![langauge stats image](https://github-readme-stats.vercel.app/api/top-langs/?username=imaginary-png&count_private=true&layout=compact)  
 -->
 
 
-<a href="https://github.com/imaginary-png/HuntHelper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imaginary-png&repo=hunthelper" />
+<a href="https://github.com/imaginary-png">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imaginary-png&count_private=true" />
 </a>
-<a href="https://github.com/imaginary-png/a-ffxiv-hunt-tracker">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=imaginary-png&repo=a-ffxiv-hunt-tracker" />
+<a href="https://github.com/imaginary-png">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaginary-png&count_private=true&layout=compact" />
 </a>  
 
 ----

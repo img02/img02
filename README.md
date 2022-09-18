@@ -28,14 +28,8 @@ Here are some ideas to get you started:
 ![langauge stats image](https://github-readme-stats.vercel.app/api/top-langs/?username=imaginary-png&count_private=true&layout=compact)  
 -->
 
-
-<a href="https://github.com/imaginary-png">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imaginary-png&count_private=true" />
-</a>
-<a href="https://github.com/imaginary-png">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaginary-png&count_private=true&layout=compact" />
-</a>  
-
+![](https://github-readme-stats.vercel.app/api?username=imaginary-png&line_height=24&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imaginary-png&layout=compact&langs_count=8,github-readme-stats&card_width=277)
 ----
 
 Repository|Downloads

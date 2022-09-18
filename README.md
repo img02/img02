@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 -->
 
-![github stats image](https://github-readme-stats.vercel.app/api?username=imaginary-png&count_private=true)
-![langauge stats image](https://github-readme-stats.vercel.app/api/top-langs/?username=imaginary-png&count_private=true&layout=compact)  
+![github stats image](https://github-readme-stats.vercel.app/api?username=imaginary-png&count_private=true)![langauge stats image](https://github-readme-stats.vercel.app/api/top-langs/?username=imaginary-png&count_private=true&layout=compact)  
 
 Repository|Downloads
 ---|---

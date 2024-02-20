@@ -36,4 +36,7 @@ Repository|Downloads
 ---|---
 [![](https://github-readme-stats-6oj9.vercel.app/api/pin/?username=img02&repo=hunthelper)](https://github.com/img02/HuntHelper)|![Download count](https://img.shields.io/endpoint?url=https://qzysathwfhebdai6xgauhz4q7m0mzmrf.lambda-url.us-east-1.on.aws/HuntHelper)
 [![](https://github-readme-stats-6oj9.vercel.app/api/pin/?username=img02&repo=Fungah-Totally-Safe-Spot)](https://github.com/img02/Fungah-Totally-Safe-Spot)|![Download count](https://img.shields.io/endpoint?url=https://qzysathwfhebdai6xgauhz4q7m0mzmrf.lambda-url.us-east-1.on.aws/Fungah)
+[![](https://github-readme-stats-6oj9.vercel.app/api/pin/?username=img02&repo=IslandWorkshopSearch)](https://github.com/img02/IslandWorkshopSearch)|![Download count](https://img.shields.io/endpoint?url=https://qzysathwfhebdai6xgauhz4q7m0mzmrf.lambda-url.us-east-1.on.aws/IslandWorkshopSearch)
+<!--
 [![](https://github-readme-stats-6oj9.vercel.app/api/pin/?username=img02&repo=a-ffxiv-hunt-tracker)](https://github.com/img02/a-ffxiv-hunt-tracker)|![downloads count](https://img.shields.io/github/downloads/img02/a-ffxiv-hunt-tracker/total.svg)
+-->
